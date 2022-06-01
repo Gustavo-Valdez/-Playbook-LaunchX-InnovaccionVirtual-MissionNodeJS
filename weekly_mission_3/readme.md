@@ -14,9 +14,9 @@ Proyectos desarrollados en la semana 3:
 
 # Comandos que utilice en el live 01
 
-npm init : Para crear un archivo package.json este archivo sirve para guardar toda la información de la configuración de nuestros proyectos en JavaScript.
+``` npm init ``` : Para crear un archivo package.json este archivo sirve para guardar toda la información de la configuración de nuestros proyectos en JavaScript.
 
-npm install --save-dev jest : Actualiza nuestro archivo, instala la ultima version de jest y crea un archivo package-lock.json que es un archivo de cache donde guarda las dependencias que usa a su ves esa dependencia y esto lo hace para guardar las versiones de las dependencias trasitivas que has agregado   
+``` npm install --save-dev jest ``` : Actualiza nuestro archivo, instala la ultima version de jest y crea un archivo package-lock.json que es un archivo de cache donde guarda las dependencias que usa a su ves esa dependencia y esto lo hace para guardar las versiones de las dependencias trasitivas que has agregado   
 
 # Test en Windows 
 
@@ -28,4 +28,4 @@ por esta:
 ``` 
 "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js" 
 ```
-
+No confies en una prueba que no has visto fallar
