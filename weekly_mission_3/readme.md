@@ -20,7 +20,7 @@ Proyectos desarrollados en la semana 3:
 
 # Test en Windows 
 
-Si es este el caso, la solución es sustituir la siguiente línea en el package.json:
+Ejemplo para sustituir la siguiente línea en el package.json:
 ``` 
 "test": "node --experimental-vm-modules ./node_modules/.bin/jest"
 ```
