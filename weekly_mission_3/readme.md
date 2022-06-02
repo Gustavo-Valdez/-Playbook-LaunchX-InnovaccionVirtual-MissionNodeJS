@@ -28,4 +28,6 @@ por esta:
 ``` 
 "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js" 
 ```
+# Consejos
+Las pruebas no son negociables porque respaldan el funcionamiento de nuestro codigo 
 No confies en una prueba que no has visto fallar
