@@ -33,7 +33,9 @@ Las pruebas no son negociables porque respaldan el funcionamiento de nuestro cod
 
 No confies en una prueba que no has visto fallar
 
+Los requerimientos del negocio se pueden modelar en las pruebas de unidad 
+
 # Resumen del Primer Live de la semana 
-![Ilustración_sin_título 3](https://user-images.githubusercontent.com/86739150/171525134-0fa79bdf-0d6c-4ce8-8288-dab25787d6c9.png)
-![Ilustración_sin_título 4](https://user-images.githubusercontent.com/86739150/171525169-bc53d7d6-d503-4a3b-975f-7a945af609fa.png)
+![Ilustración resumen 1](https://user-images.githubusercontent.com/86739150/171525134-0fa79bdf-0d6c-4ce8-8288-dab25787d6c9.png)
+![Ilustración_resumen 2](https://user-images.githubusercontent.com/86739150/171525169-bc53d7d6-d503-4a3b-975f-7a945af609fa.png)
 
