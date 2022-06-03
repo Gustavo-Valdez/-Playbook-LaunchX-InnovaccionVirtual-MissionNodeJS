@@ -12,6 +12,8 @@ Proyectos desarrollados en la semana 3:
 |`express_basic`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`express_api`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 
+# Live 01
+
 # Comandos que utilice en el live 01
 
 ``` npm init ``` : Para crear un archivo package.json este archivo sirve para guardar toda la información de la configuración de nuestros proyectos en JavaScript.
@@ -39,3 +41,8 @@ Los requerimientos del negocio se pueden modelar en las pruebas de unidad
 ![Ilustración resumen 1](https://user-images.githubusercontent.com/86739150/171525134-0fa79bdf-0d6c-4ce8-8288-dab25787d6c9.png)
 ![Ilustración_resumen 2](https://user-images.githubusercontent.com/86739150/171525169-bc53d7d6-d503-4a3b-975f-7a945af609fa.png)
 
+# Live 02
+
+# Consejos
+
+Cada commit es un cambio con su respectiva prueba, eso te da a ti como developer un nivel de finesa para resolver problemas
