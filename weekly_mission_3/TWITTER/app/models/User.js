@@ -7,6 +7,10 @@ class User {
         this.lastUpdate = new Date()
     }
 
+    get getUsername(){
+        return this.username
+    }
+
 }
 
 module.exports = User
