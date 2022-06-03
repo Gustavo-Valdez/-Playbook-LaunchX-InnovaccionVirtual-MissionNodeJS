@@ -45,4 +45,6 @@ Los requerimientos del negocio se pueden modelar en las pruebas de unidad
 
 # Consejos
 
-Cada commit es un cambio con su respectiva prueba, eso te da a ti como developer un nivel de finesa para resolver problemas
+Cada commit es un cambio con su respectiva prueba, eso te da a ti como developer un nivel de finesa para resolver problemas.
+
+En las pruebas tu puedes validar que estas cumpliendo con tus requerimientos
