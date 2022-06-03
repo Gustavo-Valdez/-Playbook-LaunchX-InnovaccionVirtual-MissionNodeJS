@@ -37,7 +37,7 @@ No confies en una prueba que no has visto fallar
 
 Los requerimientos del negocio se pueden modelar en las pruebas de unidad 
 
-# Resumen del Primer Live de la semana 
+# Resumen del Primer Live de la Semana 
 ![Ilustración resumen 1](https://user-images.githubusercontent.com/86739150/171525134-0fa79bdf-0d6c-4ce8-8288-dab25787d6c9.png)
 ![Ilustración_resumen 2](https://user-images.githubusercontent.com/86739150/171525169-bc53d7d6-d503-4a3b-975f-7a945af609fa.png)
 
@@ -50,3 +50,9 @@ Cada commit es un cambio con su respectiva prueba, eso te da a ti como developer
 En las pruebas tu puedes validar que estas cumpliendo con tus requerimientos
 
 Los setter nos sirven para actualizar la informacion de un objeto
+
+Cuida del orden para que el orden cuide de ti 
+
+# Resumen del Segundo Live de la Semana
+
+![Ilustración resumen 3](https://user-images.githubusercontent.com/86739150/171954019-d7c4737f-9ef3-4077-8b1d-ff9fca742e69.png)
