@@ -31,11 +31,12 @@ por esta:
 "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js" 
 ```
 # Consejos
-Las pruebas no son negociables porque respaldan el funcionamiento de nuestro codigo 
 
-No confies en una prueba que no has visto fallar
+- Las pruebas no son negociables porque respaldan el funcionamiento de nuestro codigo. 
 
-Los requerimientos del negocio se pueden modelar en las pruebas de unidad 
+- No confies en una prueba que no has visto fallar.
+
+- Los requerimientos del negocio se pueden modelar en las pruebas de unidad. 
 
 # Resumen del Primer Live de la Semana 
 ![Ilustración resumen 1](https://user-images.githubusercontent.com/86739150/171525134-0fa79bdf-0d6c-4ce8-8288-dab25787d6c9.png)
@@ -45,14 +46,15 @@ Los requerimientos del negocio se pueden modelar en las pruebas de unidad
 
 # Consejos
 
-Cada commit es un cambio con su respectiva prueba, eso te da a ti como developer un nivel de finesa para resolver problemas.
+- Cada commit es un cambio con su respectiva prueba, eso te da a ti como developer un nivel de finesa para resolver problemas.
 
-En las pruebas tu puedes validar que estas cumpliendo con tus requerimientos
+- En las pruebas tu puedes validar que estas cumpliendo con tus requerimientos.
 
-Los setter nos sirven para actualizar la informacion de un objeto
+- Los setter nos sirven para actualizar la informacion de un objeto.
 
-Cuida del orden para que el orden cuide de ti 
+- Cuida del orden para que el orden cuide de ti. 
 
 # Resumen del Segundo Live de la Semana
 
 ![Ilustración resumen 3](https://user-images.githubusercontent.com/86739150/171954019-d7c4737f-9ef3-4077-8b1d-ff9fca742e69.png)
+![Ilustración_resumen 4](https://user-images.githubusercontent.com/86739150/171954084-8cb08d1d-8217-49c6-9bda-0ef0fef7f274.png)
