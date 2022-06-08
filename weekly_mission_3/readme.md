@@ -71,6 +71,10 @@ Es un framework de JavaScript para ayudarnos a crear servidores.
 
 ``` node app.js ``` : Ejecuta tu server.
 
+# Para que no se olvide
+
+El metodo GET sirve para regresar información, comunmente nos sirve para regresar toda la información de un modelo en una base datos.
+
 # Resumen del Tercer Live de la Semana
 
 ![Ilustración_resumen 5](https://user-images.githubusercontent.com/86739150/171954084-8cb08d1d-8217-49c6-9bda-0ef0fef7f274.png)
