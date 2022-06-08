@@ -18,7 +18,7 @@ Proyectos desarrollados en la semana 3:
 
 ``` npm init ``` : Para crear un archivo package.json este archivo sirve para guardar toda la información de la configuración de nuestros proyectos en JavaScript.
 
-``` npm install --save-dev jest ``` : Actualiza nuestro archivo, instala la ultima version de jest y crea un archivo package-lock.json que es un archivo de cache donde guarda las dependencias que usa a su ves esa dependencia y esto lo hace para guardar las versiones de las dependencias trasitivas que has agregado   
+``` npm install --save-dev jest ``` : Actualiza nuestro archivo, instala la ultima version de jest y crea un archivo package-lock.json que es un archivo de cache donde guarda las dependencias que usa a su ves esa dependencia y esto lo hace para guardar las versiones de las dependencias trasitivas que has agregado.   
 
 # Test en Windows 
 
@@ -63,13 +63,13 @@ por esta:
 
 # ¿Que es express?
 
-Es un framework de JavaScript para ayudarnos a crear servidores
+Es un framework de JavaScript para ayudarnos a crear servidores.
 
 # Comando que utlice en el live 03
 
-``` npm install express --save ``` : Actualizar el package.json
+``` npm install express --save ``` : Actualizar el package.json .
 
-``` node app.js ``` : Para correr el archivo app
+``` node app.js ``` : Ejecuta tu server.
 
 # Resumen del Tercer Live de la Semana
 
