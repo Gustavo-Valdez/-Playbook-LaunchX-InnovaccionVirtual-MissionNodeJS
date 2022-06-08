@@ -69,6 +69,8 @@ Es un framework de JavaScript para ayudarnos a crear servidores
 
 ``` npm install express --save ``` : Actualizar el package.json
 
+``` node app.js ``` : Para correr el archivo app
+
 # Resumen del Tercer Live de la Semana
 
 ![Ilustración_resumen 5](https://user-images.githubusercontent.com/86739150/171954084-8cb08d1d-8217-49c6-9bda-0ef0fef7f274.png)
