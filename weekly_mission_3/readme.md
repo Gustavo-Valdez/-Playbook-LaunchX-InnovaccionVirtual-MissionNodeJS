@@ -75,6 +75,11 @@ Es un framework de JavaScript para ayudarnos a crear servidores.
 
 El metodo GET sirve para regresar información, comunmente nos sirve para regresar toda la información de un modelo en una base datos.
 
+- El metodo GET sirve para regresar información.
+- El metodo POST sirve para crear. 
+- El metodo PUT sirve para actualizar un registro.
+- El metodo DELETE sirve para eliminar.
+
 # Resumen del Tercer Live de la Semana
 
 ![Ilustración_resumen 5](https://user-images.githubusercontent.com/86739150/171954084-8cb08d1d-8217-49c6-9bda-0ef0fef7f274.png)
