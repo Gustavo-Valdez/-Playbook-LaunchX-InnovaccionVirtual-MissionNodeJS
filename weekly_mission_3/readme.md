@@ -84,3 +84,7 @@ El metodo GET sirve para regresar información, comunmente nos sirve para regres
 
 ![Ilustración_resumen 5](https://user-images.githubusercontent.com/86739150/171954084-8cb08d1d-8217-49c6-9bda-0ef0fef7f274.png)
 ![Ilustración_resumen 6](https://user-images.githubusercontent.com/86739150/172509243-2ee74a55-eb4b-4fe1-a6fd-162798b1f9e6.png)
+
+# ¿Cual es mi responsabilidad como desarrollador?
+
+Es entregar valor, que lo que programes tenga calidad, sea mantenible, que genere valor de negocio.
