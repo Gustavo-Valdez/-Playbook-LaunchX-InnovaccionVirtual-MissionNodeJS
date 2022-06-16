@@ -44,3 +44,8 @@ Proyectos desarrollados en la semana 3:
 
 # Live 02
 
+# Que nunca se olvide 
+
+- Las pruebas de unidad nos ayuda a probar partes especificas de nuestros componentes de forma aislada.
+
+- Las pruebas de integracion nos ayudan justamente a probar como esa integración de bloques de codigo va funcionando varios ciertos escenarios.
