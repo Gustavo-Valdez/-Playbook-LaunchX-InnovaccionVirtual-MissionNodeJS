@@ -49,3 +49,11 @@ Proyectos desarrollados en la semana 3:
 - Las pruebas de unidad nos ayuda a probar partes especificas de nuestros componentes de forma aislada.
 
 - Las pruebas de integracion nos ayudan justamente a probar como esa integración de bloques de codigo va funcionando varios ciertos escenarios.
+
+# Conceptos importantes para buscar y actualizar este README.
+
+- Sintaxis Jerking
+
+- Historias de Usuario
+
+- Pruebas de unidad y test development
