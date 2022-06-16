@@ -36,8 +36,11 @@ Proyectos desarrollados en la semana 3:
 
 - La automatizacion es la parte clave del desarrollo de software.
 
-- Linter es una guia de estilo, te corrigue el estilo y lo necesitamos en JS porque es un lenguaje complejo que esta mal diseñado.
+- Linter es una guia de estilo, te corrigue el estilo y lo necesitamos en JavaScript porque es un lenguaje complejo que esta mal diseñado.
 
 # Resumen del Primer Live de la Semana 
 ![Ilustración resumen 1](https://user-images.githubusercontent.com/86739150/173705911-a4d90669-51fe-4c9e-9394-b6d1c7c40ed0.png)
 ![Ilustración_resumen 2](https://user-images.githubusercontent.com/86739150/173706008-fd3fcc1c-20bd-4216-bacf-3675a4a0ca74.png)
+
+# Live 02
+
