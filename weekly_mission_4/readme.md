@@ -52,8 +52,12 @@ Proyectos desarrollados en la semana 3:
 
 # Conceptos importantes para buscar y actualizar este README.
 
-- Sintaxis Jerking
+- Sintaxis Jerking.
 
-- Historias de Usuario
+- Historias de Usuario.
 
-- Pruebas de unidad y test development
+- Pruebas de unidad y test development.
+
+# Live 03
+
+Fue un live donde reviso proyectos de la semana de mis compañeros.
