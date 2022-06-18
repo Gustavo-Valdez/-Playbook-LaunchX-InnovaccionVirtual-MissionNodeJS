@@ -65,3 +65,9 @@ Fue un live donde reviso proyectos de la semana de mis compañeros.
 # Guia de la practica 5
 
 ![Ilustración practica 1](https://user-images.githubusercontent.com/86739150/174416656-fc3186d8-3ff8-4971-b8eb-33ba4669e8d9.png)
+
+# Anotaciones
+
+- Students Controller lo que hace el puente de la parte logica de la aplicación y la parte del servidor.
+
+- La parte de los services se ejecuta toda la logica de negocios.
