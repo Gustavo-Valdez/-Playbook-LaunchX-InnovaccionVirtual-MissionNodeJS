@@ -12,3 +12,6 @@ Es el termino que se suele usar para nombrar todas esas reglas, todos esos flujo
 
 - npx: Es un comando como npm y lo que hace es que en vez de descargar e instalar una dependencia globalmente en tu sistema operativo la descarga automaticamente para usarla.
 
+- Migration: Es como un commit pero es un archivo que contiene un cambio de la base de datos.
+
+
