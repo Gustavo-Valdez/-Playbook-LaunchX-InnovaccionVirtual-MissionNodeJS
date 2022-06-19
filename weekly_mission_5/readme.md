@@ -14,4 +14,6 @@ Es el termino que se suele usar para nombrar todas esas reglas, todos esos flujo
 
 - Migration: Es como un commit pero es un archivo que contiene un cambio de la base de datos.
 
+- Hay que tener una base de datos versionada por cambios, porque una base de datos tiene que ser capaz de evolucionar con el tiempo.
 
+- Pruebas de concepto: Es cuando estas probando algo y aprendes como utilizarlo.
