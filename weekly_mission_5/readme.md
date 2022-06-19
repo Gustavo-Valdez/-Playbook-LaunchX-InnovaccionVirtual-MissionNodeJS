@@ -3,3 +3,7 @@
 # Semana 5
 
 # Anotaciones
+
+¿Que es la logica de negocio?
+
+Es el termino que se suele usar para nombrar todas esas reglas, todos esos flujos que tienen que ver especificamente con lo que su aplicación necesita.
