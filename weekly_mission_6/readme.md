@@ -20,7 +20,7 @@
 
 3.- Produccion: nadie la toca.
 
-- Sirve para ir depurando
+Sirve para ir depurando.
 
 
 # Cualquier proyecto tiene que tener esto
