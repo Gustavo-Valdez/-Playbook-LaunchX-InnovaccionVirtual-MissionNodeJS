@@ -14,17 +14,17 @@
 
 - CI: Parte tu proceso de desarrollo por partes.
 
-- Servidor CI llamado Jenkins, circle, github action.
+- Servidores CI: Jenkins, circle, github action.
 
 # En produccion como minimo hay 3 aplicaciones y cualquier proyecto tiene que tener esto.
 
-1.- Desarrrollo: Para el desarrollador.
+1.- Desarrrollo: Para mi.
 
 2.- QUEY: Pruebas de negocio.
 
 3.- Produccion: nadie la toca.
 
-Sirve para ir depurando.
+Sirven para ir depurando.
 
 # Dos preguntas para que no se olviden.
 
