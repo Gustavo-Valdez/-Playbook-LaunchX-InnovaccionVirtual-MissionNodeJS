@@ -54,6 +54,6 @@ Es la habilidad que vamos a tener para desplegar varias versiones de nuestra apl
 
 # Derechos de autor de las imagenes
 
-<a href="https://visualpartnership.herokuapp.com/"> Visual Partners Ship<a/>
+<a href="https://visualpartnership.herokuapp.com/"> Visual Partner Ship<a/>
 
 <a href="https://carlogilmar.xyz/"> Carlo Gilmar <a/>
