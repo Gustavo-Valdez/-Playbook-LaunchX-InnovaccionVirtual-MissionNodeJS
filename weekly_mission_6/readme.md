@@ -32,3 +32,5 @@ Es la forma de automatizar la construcción de nuestro proyecto y asegurar la ca
 ¿Que es el despliegue continuo?
 
 Es la habilidad que vamos a tener para desplegar varias versiones de nuestra aplicación.
+
+Integracion continua (CI) : sirve para automatizar las fases de construcción de nuestro proyecto. 
