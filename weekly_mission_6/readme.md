@@ -11,3 +11,13 @@
 - CI: Parte tu proceso de desarrollo por partes.
 
 - Servidor CI llamado Jenkins, circle, github action.
+
+# En produccion como minimo hay 3 aplicaciones
+
+1.- Desarrrollo: Para el desarrollador.
+
+2.- QUEY: Pruebas de negocio.
+
+3.- Produccion: nadie la toca.
+
+- Sirve para ir depurando
