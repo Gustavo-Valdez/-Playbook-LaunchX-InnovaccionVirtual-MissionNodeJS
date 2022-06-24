@@ -34,3 +34,5 @@ Es la forma de automatizar la construcción de nuestro proyecto y asegurar la ca
 Es la habilidad que vamos a tener para desplegar varias versiones de nuestra aplicación.
 
 Integracion continua (CI) : sirve para automatizar las fases de construcción de nuestro proyecto. 
+
+Despliegue continuo (CD) : sirve para probar nuestra aplicacion en diferentes ambientes a diferentes niveles de organización.
