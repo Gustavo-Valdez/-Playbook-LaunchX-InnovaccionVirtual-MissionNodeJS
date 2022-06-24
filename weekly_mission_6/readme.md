@@ -21,3 +21,14 @@
 3.- Produccion: nadie la toca.
 
 - Sirve para ir depurando
+
+
+# Cualquier proyecto tiene que tener esto
+
+¿Que es la integración continua?
+
+Es la forma de automatizar la construcción de nuestro proyecto y asegurar la calidad tecnica. 
+
+¿Que es el despliegue continuo?
+
+Es la habilidad que vamos a tener para desplegar varias versiones de nuestra aplicación.
