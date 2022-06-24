@@ -52,3 +52,8 @@ Es la habilidad que vamos a tener para desplegar varias versiones de nuestra apl
 ![Ilustración_resumen 12](https://user-images.githubusercontent.com/86739150/175441682-488ad2b3-0a9c-4a89-adf0-5e2999570b44.jpeg)
 ![Ilustración resumen 13](https://user-images.githubusercontent.com/86739150/175441664-22b38fdf-07e4-4404-be52-907f377a2e39.jpeg)
 
+# Derechos de autor de las imagenes
+
+<a href="https://visualpartnership.herokuapp.com/"> Visual Partners Ship<a/>
+
+<a href="https://carlogilmar.xyz/"> Carlo Gilmar <a/>
